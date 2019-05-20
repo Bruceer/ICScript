@@ -69,6 +69,14 @@ The phpdesktop already includes some script samples to let you get started easil
 
 Welcome to discuss more application about this tool. How you can use it. What I can see is that it is powerful and I can use it for my own automation jobs and more communication with IC work servers.
 
+## Why php
+
+- php is a server based script, not client based script.
+- php is friendly to ICer which works with tcl/perl/python.
+- php communite is active, and development is still on-going.
+- php is easy to build and debug.
+- php is also good to build command line interface.
+
 ## Next Week
 
 I will share some usage of phpdesktop from my side and another new topic.
