@@ -68,3 +68,7 @@ The phpdesktop already includes some script samples to let you get started easil
 - upload.php
 
 Welcome to discuss more application about this tool. How you can use it. What I can see is that it is powerful and I can use it for my own automation jobs and more communication with IC work servers.
+
+## Next Week
+
+I will share some usage of phpdesktop from my side and another new topic.
