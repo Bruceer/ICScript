@@ -114,3 +114,5 @@ And package is better to manage the procs, functions which could be shared among
 Keep the CAD in the mind, so our goal is to deliver the CAD concept to every engineer.
 
 All CAD tool or methodology is powerful if all team members could work like one.
+
+At the end of all these sharing, I hope I can come to a platform that could help on all implenmentation designers to make the work life easy.
