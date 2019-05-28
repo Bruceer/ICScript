@@ -18,6 +18,8 @@ I am not a software developer, but I am willing to learn some software technolog
 
 BTW, welcome to recommend the good articles and materials. I will take my effort to understand it and share with you all. Let's get started.
 
+![Code Phpdesktop](code_phpdesktop.jpg)
+
 ## phpdesktop
 
 Today I am going to recommend this phpdesktop program which is a good tool to build local applications.

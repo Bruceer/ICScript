@@ -2,6 +2,8 @@
 
 Tcl package is used for reusable unit of tcl script. And it is also a good way to share your script, centralize your script and document your script. Let's see what did we know about the tcl pacakge for now.
 
+![Organize Packages](organize_packages.jpg)
+
 ## How tcl package looks like
 
 Tcllib is a standard tcl library. And for TK, we have Tklib. It is the standard tk library.

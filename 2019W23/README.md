@@ -1,6 +1,6 @@
 # Magic words in Tcl
 
-## auto_path
+## $auto_path
 
 ## $args
 
@@ -10,11 +10,11 @@
 
 ## exec
 
-## env
+## $env()
 
-## errorCode
+## $errorCode
 
-## errorInfo
+## $errorInfo
 
 ## tcl_library
 
