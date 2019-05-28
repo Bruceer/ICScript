@@ -12,7 +12,7 @@ Tcllib is a standard tcl library. And for TK, we have Tklib. It is the standard 
 ``` sh
 # Download tcllib-trunk.tar.gz
 tar xzvf tcllib-trunk.tar.gz
-cd tcllib-trunk.tar.gz
+cd tcllib-trunk
 ~/.local/tcllib-trunk$ ./configure --prefix=/home/steve/.local/
 make install
 ```

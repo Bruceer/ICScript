@@ -1,4 +1,4 @@
-# Y2019W21
+# 2019W21
 
 First sharing about IC script.
 
