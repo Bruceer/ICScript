@@ -107,7 +107,7 @@ countCells innovus ;
 
 You will see your first pakcage is done.
 
-## Use "source" and "package"
+## Use "source" or "package"
 
 Sometimes we may think "source" command is straightforard and easy to manage.
 
